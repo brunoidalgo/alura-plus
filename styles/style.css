@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --cor-primaria: #FFFFFF;
+    --cor-secundaria: #EC2F46;
+    --cor-terciaria: #F9F9F9;
+    --cor-quartenaria: #040814;
+    --cor-quintenaria: #167BF7;
+    --cor-sextenaria: #C0C0C0;
+    --cor-setenaria: #00030C;
+}
+
+body {
+    background-color: var(--cor-setenaria);
+    color: var(--cor-primaria);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap')
