@@ -11,11 +11,13 @@
     --cor-quintenaria: #167BF7;
     --cor-sextenaria: #C0C0C0;
     --cor-setenaria: #00030C;
+    --fonte-principal: 'Inter';
 }
 
 body {
     background-color: var(--cor-setenaria);
     color: var(--cor-primaria);
+    font-family: var(--fonte-principal);
 }
 
 .principal {
@@ -29,6 +31,10 @@ body {
     height: 100vh;
     display: grid;
     grid-template-columns: 50% 50%;
+}
+
+.container-titulo {
+    font-size: 1.75em;
 }
 
 .container-botao {
@@ -51,6 +57,8 @@ body {
     width: 512px;
 }
 
-.container-paragrafo {
-    
+.container-aviso {
+    font-weight: 200;
+    font-size: 0.75em;
+    color: var(--cor-sextenaria);
 }
