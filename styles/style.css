@@ -27,4 +27,30 @@ body {
 
 .container {
     height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.container-botao {
+    background-color: var(--cor-quintenaria);
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 1em;
+    color: var(--cor-primaria);
+    display: block;
+    width: 512px;
+}
+
+.container-botao-secundario {
+    text-decoration: none;
+    border-radius: 8px;
+    border: 1px solid var(--cor-primaria);
+    padding: 1em;
+    color: var(--cor-primaria);
+    display: block;
+    width: 512px;
+}
+
+.container-paragrafo {
+    
 }
