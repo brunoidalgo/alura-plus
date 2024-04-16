@@ -12,7 +12,7 @@
 
 ## Aprendizados
 
-### Aula 3:
+### Aula 1:
 * Criar a pasta do projeto e os arquivos HTML e CSS no seu computador, assim como abrir a pasta no editor de código;
 * Escrever o código base do arquivo HTML, através das tags que compõem a estrutura básica desse tipo de arquivo;
 * Preencher os dados que são inseridos dentro da tag <head> que auxiliam o navegador a entender a codificação de caracteres, o tamanho do dispositivo e a conexão de arquivos externos;
