@@ -38,6 +38,10 @@ body {
     font-weight: 700;
 }
 
+.container-imagem {
+    margin: 1em 0 2em 0;
+}
+
 .container-botao {
     background-color: var(--cor-quintenaria);
     text-decoration: none;
@@ -46,6 +50,7 @@ body {
     color: var(--cor-primaria);
     display: block;
     width: 512px;
+    margin-bottom:1em;
 }
 
 .container-botao-secundario {
@@ -62,4 +67,5 @@ body {
     font-weight: 200;
     font-size: 0.75em;
     color: var(--cor-sextenaria);
+    padding-top:1em;
 }
