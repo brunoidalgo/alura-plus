@@ -46,5 +46,13 @@
 * Reutilizar estilos através das classes dentro da nova section;
 * Atribuir mais de uma classe nos elementos para incluir novas estilizações além das existentes.
 
+### Aula 4
+
+* Usar flexbox e seu significado;
+* Flex-containers, flex-itens, flex-direction;
+* A tag footer;
+* Colocar o conhecimento em prática;
+* Pseudo-classes no CSS: hover e active.
+
 ## Screenshots
 ![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
