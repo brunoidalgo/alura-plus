@@ -205,3 +205,11 @@ body {
     width: 1200px;
     display: inline-block;
 }
+
+
+
+/* CSS media query Mobile and Tablets */
+/* @media (min-width: 280px) and (max-width: 1200px) {
+    
+    
+  } */
